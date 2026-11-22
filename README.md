@@ -2,7 +2,7 @@
 
 A small MCP server that lets an AI assistant answer questions about a sales spreadsheet in plain English.
 
-Ask "Which channel made the most money in August?" and the assistant looks the numbers up itself. The code does the maths, exactly; the AI only writes the answer. It's the working example behind my post [Want to build something with AI? Build your own MCP server, for free](https://lohkaixiang.com/blog/build-yourself-an-mcp-server).
+Ask "Which channel made the most money in August?" and the assistant looks the numbers up itself, while the code works out every figure exactly. It's the working example behind my post [Want to build something with AI? Build your own MCP server, for free](https://lohkaixiang.com/blog/build-yourself-an-mcp-server).
 
 ## What it can do
 
@@ -53,7 +53,7 @@ To use your own data, export a sheet as CSV and point the server at it:
 
 ## Why it's built this way
 
-- **Code does the maths, AI does the words.** An AI that adds numbers up itself will eventually get one wrong and say it confidently. Here every figure comes from `total` or `top`.
+- **The assistant never adds numbers up itself.** Every figure comes from `total` or `top`, which do the sums exactly, so a wrong total can't slip into an answer.
 - **Read-only.** It opens the file to read and nothing else. It can't change or delete anything.
 - **One file, one job.** It only reaches the spreadsheet you point it at.
 - **Clear descriptions.** Most of the work in an MCP server is describing each ability well enough that the assistant knows when to use it.

@@ -1,8 +1,8 @@
 """Ask your spreadsheet: a small, read-only MCP server.
 
 It lets an AI assistant answer questions about a sales spreadsheet (a CSV file)
-in plain English. The assistant decides what to look up; this code does the
-maths. Nothing here can change or delete the file.
+in plain English. The assistant decides what to look up, and this code works
+out every figure. Nothing here can change or delete the file.
 
 Run it:  python server.py
 Point it at your own file:  SHEET_PATH=/path/to/sales.csv python server.py
