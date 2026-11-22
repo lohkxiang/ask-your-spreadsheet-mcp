@@ -1,0 +1,59 @@
+date,channel,product,region,orders,revenue
+2026-07-01,Email,Linen Bedding,North,3,203.14
+2026-07-04,Organic,Linen Bedding,London,4,283.74
+2026-07-04,Affiliate,Wool Throw,North,3,160.76
+2026-07-07,Affiliate,Ceramic Mugs,North,2,33.60
+2026-07-13,Paid Search,Wool Throw,Midlands,6,336.98
+2026-07-13,Email,Ceramic Mugs,Midlands,1,16.75
+2026-07-13,Affiliate,Wool Throw,Scotland,1,50.51
+2026-07-16,Email,Wool Throw,London,9,449.60
+2026-07-16,Organic,Oak Side Table,Scotland,4,571.05
+2026-07-19,Email,Linen Bedding,Midlands,5,315.48
+2026-07-19,Organic,Wool Throw,London,4,217.50
+2026-07-19,Affiliate,Oak Side Table,London,4,546.27
+2026-07-22,Organic,Wool Throw,Scotland,2,100.49
+2026-07-25,Organic,Wool Throw,Scotland,7,396.23
+2026-07-25,Affiliate,Ceramic Mugs,London,3,54.30
+2026-07-28,Paid Social,Oak Side Table,North,5,693.57
+2026-07-28,Affiliate,Ceramic Mugs,London,1,18.01
+2026-07-31,Paid Social,Wool Throw,Scotland,2,104.95
+2026-07-31,Organic,Linen Bedding,London,7,465.19
+2026-08-06,Paid Social,Wool Throw,Midlands,10,507.23
+2026-08-06,Email,Oak Side Table,Scotland,2,285.20
+2026-08-09,Paid Social,Oak Side Table,North,4,569.69
+2026-08-09,Affiliate,Oak Side Table,Midlands,3,401.73
+2026-08-12,Paid Search,Linen Bedding,Midlands,7,481.00
+2026-08-12,Email,Oak Side Table,Midlands,3,444.26
+2026-08-12,Organic,Ceramic Mugs,Scotland,2,36.89
+2026-08-12,Affiliate,Ceramic Mugs,London,3,54.81
+2026-08-15,Paid Search,Wool Throw,Midlands,8,412.00
+2026-08-15,Email,Oak Side Table,North,5,687.78
+2026-08-18,Paid Social,Linen Bedding,Midlands,4,267.19
+2026-08-18,Email,Linen Bedding,North,4,263.98
+2026-08-21,Paid Search,Oak Side Table,Scotland,5,675.18
+2026-08-21,Email,Linen Bedding,North,3,191.05
+2026-08-21,Organic,Wool Throw,North,4,221.37
+2026-08-21,Affiliate,Wool Throw,North,1,53.53
+2026-08-24,Paid Social,Linen Bedding,North,3,201.64
+2026-08-24,Organic,Ceramic Mugs,Midlands,6,106.40
+2026-08-27,Email,Oak Side Table,Scotland,3,450.97
+2026-08-27,Organic,Ceramic Mugs,Scotland,3,49.81
+2026-08-27,Affiliate,Linen Bedding,North,1,69.42
+2026-08-30,Email,Linen Bedding,London,2,134.94
+2026-08-30,Organic,Linen Bedding,Midlands,7,453.30
+2026-09-02,Organic,Linen Bedding,North,2,134.06
+2026-09-02,Affiliate,Wool Throw,Scotland,3,159.74
+2026-09-05,Organic,Oak Side Table,Scotland,9,1234.97
+2026-09-11,Paid Search,Linen Bedding,North,4,281.96
+2026-09-11,Paid Social,Oak Side Table,North,7,1061.47
+2026-09-11,Email,Linen Bedding,Scotland,6,396.48
+2026-09-11,Affiliate,Ceramic Mugs,Midlands,3,53.30
+2026-09-17,Paid Social,Wool Throw,Midlands,6,312.04
+2026-09-17,Affiliate,Ceramic Mugs,London,3,51.54
+2026-09-20,Paid Search,Ceramic Mugs,North,5,85.96
+2026-09-20,Paid Social,Oak Side Table,Scotland,2,286.21
+2026-09-20,Email,Linen Bedding,North,4,260.11
+2026-09-23,Paid Search,Linen Bedding,London,6,420.77
+2026-09-23,Affiliate,Wool Throw,Midlands,1,56.19
+2026-09-26,Paid Search,Linen Bedding,North,4,254.11
+2026-09-26,Organic,Oak Side Table,North,5,717.05

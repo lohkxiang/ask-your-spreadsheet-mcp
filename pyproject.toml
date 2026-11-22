@@ -1,0 +1,12 @@
+[project]
+name = "ask-your-spreadsheet-mcp"
+version = "0.1.0"
+description = "A small, read-only MCP server that lets an AI assistant answer questions about a sales spreadsheet."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Kai Loh" }]
+dependencies = ["mcp[cli]>=2"]
+
+[project.optional-dependencies]
+test = ["pytest", "anyio"]
